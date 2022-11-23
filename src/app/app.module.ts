@@ -13,7 +13,7 @@ import { ProductService } from './product.service';
     AppComponent,
     ProductPageComponent,
     ProductDescriptionComponent,
-    ProductService
+    ProductService,
   ],
   imports: [
     BrowserModule,
